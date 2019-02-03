@@ -829,14 +829,14 @@
     "@vue/babel-preset-app" "^3.3.0"
     babel-loader "^8.0.4"
 
-"@vue/cli-plugin-e2e-nightwatch@^3.2.1":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.3.0.tgz#29d530d9d3d17c82cdf0ae0c0f2b1218358cbfb4"
-  integrity sha512-lz/+PKlQXAZoaFkjceZdOLJnX8Dm64AekE+iCB0ut0b3qCo6TBGrHwTV2XKyJ7VlkV8PX6ud8LGIUy/0bu2ZSA==
+"@vue/cli-plugin-e2e-nightwatch@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.4.0.tgz#0726fa46ccb2735adc3fd1cdf1ef43c79aaf56b1"
+  integrity sha512-XIL6NKD/N4ZhbniAZLYB46OmzAg+ibAlUg3W1JURpoBBs9+EP6XV+vzI9lUaS8JNU3Cuj45PqB455fDwUrHt1g==
   dependencies:
-    "@vue/cli-shared-utils" "^3.3.0"
+    "@vue/cli-shared-utils" "^3.4.0"
     chromedriver "^2.45.0"
-    deepmerge "^3.0.0"
+    deepmerge "^3.1.0"
     execa "^1.0.0"
     nightwatch "^0.9.21"
     selenium-server "^3.141.59"
@@ -930,10 +930,10 @@
     webpack-merge "^4.1.5"
     yorkie "^2.0.0"
 
-"@vue/cli-shared-utils@^3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-3.3.0.tgz#aba6c435bf9affb8180c43195ee85eb8d736d70f"
-  integrity sha512-V/sU1jc7/jMCAbU8uA5f4j9Yd8lTqdi3I6FEHfLG1nstwhaNi4BU3WKWOAl72NYVWFYG8VuCrYWDn75kMimtuw==
+"@vue/cli-shared-utils@^3.3.0", "@vue/cli-shared-utils@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-3.4.0.tgz#4331cb926351e399bf7305a9306bf09d0f2a1b9d"
+  integrity sha512-w9j2qIroUUC2ym4Lb0lLMdlGmYThhwV0OizOEVigB5eZOEUEBV2Mv43K+nWJ6OyRBACnvhJTDi1gIwJo8zUvOw==
   dependencies:
     chalk "^2.4.1"
     execa "^1.0.0"
@@ -3137,10 +3137,10 @@ deepmerge@^1.5.2:
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-1.5.2.tgz#10499d868844cdad4fee0842df8c7f6f0c95a753"
   integrity sha512-95k0GDqvBjZavkuvzx/YqVLv/6YYa17fz6ILMSf7neqQITCPbnfEnQvEgMPNjH4kgobe7+WIL0yJEHku+H3qtQ==
 
-deepmerge@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-3.0.0.tgz#ca7903b34bfa1f8c2eab6779280775a411bfc6ba"
-  integrity sha512-a8z8bkgHsAML+uHLqmMS83HHlpy3PvZOOuiTQqaa3wu8ZVg3h0hqHk6aCsGdOnZV2XMM/FRimNGjUh0KCcmHBw==
+deepmerge@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-3.1.0.tgz#a612626ce4803da410d77554bfd80361599c034d"
+  integrity sha512-/TnecbwXEdycfbsM2++O3eGiatEFHjjNciHEwJclM+T5Kd94qD1AP+2elP/Mq0L5b9VZJao5znR01Mz6eX8Seg==
 
 default-gateway@^2.6.0:
   version "2.7.2"
