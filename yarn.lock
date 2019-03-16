@@ -824,12 +824,12 @@
     babel-loader "^8.0.5"
     webpack ">=4 < 4.29"
 
-"@vue/cli-plugin-e2e-nightwatch@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.4.1.tgz#8cd67b1409bc8696a5a8b14069709fe52a94b395"
-  integrity sha512-G7aXy1N+AyWx71K312Yna/hQZ/EG95h04SvmfYsBgscwPVgAbC/n5eqElLUESBEFyHf9CCMbOXNSXLL7AcJ6AA==
+"@vue/cli-plugin-e2e-nightwatch@^3.5.1":
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.5.1.tgz#f60f1cc78af9cfc61a0cb6c6f489d3de6fa07699"
+  integrity sha512-+qzrUjxyfF9/ZL5Syo3ivwZrZtTPVAUM9FKMlev5/lyQmAEqiOw+PJMaStJVHsYtBBFsMGAg914tmBr1KV4qiA==
   dependencies:
-    "@vue/cli-shared-utils" "^3.4.1"
+    "@vue/cli-shared-utils" "^3.5.1"
     chromedriver "^2.46.0"
     deepmerge "^3.2.0"
     execa "^1.0.0"
