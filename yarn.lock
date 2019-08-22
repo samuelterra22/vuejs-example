@@ -934,12 +934,12 @@
     babel-loader "^8.0.5"
     webpack ">=4 < 4.29"
 
-"@vue/cli-plugin-e2e-nightwatch@^3.9.2":
-  version "3.9.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.9.2.tgz#7ed58c576eb4b8559e1fb86458ea11693317b832"
-  integrity sha512-olDeE3C5Fmd8ZG2SxNIjWKyhLzi8RXaDNKIFw7ZNrdoJKe8Av0OAweSjP6y5iRApgOQOX2JfS1vum47LC/Dh8g==
+"@vue/cli-plugin-e2e-nightwatch@^3.11.0":
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-nightwatch/-/cli-plugin-e2e-nightwatch-3.11.0.tgz#63196fd6545f062ee8789723aa1bade02f0b2108"
+  integrity sha512-18R/DohTNquODMVce0uZ/NQayB/fpNvtr7TRINtQe/d9kIpHzRgbNJ7NPHvCWBQDAgLKIWcXDwT2ADhbRPJAhw==
   dependencies:
-    "@vue/cli-shared-utils" "^3.9.0"
+    "@vue/cli-shared-utils" "^3.11.0"
     chromedriver "^2.46.0"
     deepmerge "^3.2.0"
     execa "^1.0.0"
@@ -1046,10 +1046,10 @@
     webpack-dev-server "^3.4.1"
     webpack-merge "^4.2.1"
 
-"@vue/cli-shared-utils@^3.9.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-3.9.0.tgz#cb56a443bf763a873849a11d07e9e7638aa16cc2"
-  integrity sha512-wumeMZTz5aQ+1Y6uxTKegIsgOXEWT3hT8f9sW2mj5SwNDVyQ+AHZTgSynYExTUJg3dH81uKgFDUpPdAvGxzh8g==
+"@vue/cli-shared-utils@^3.11.0", "@vue/cli-shared-utils@^3.9.0":
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-3.11.0.tgz#a3d6f809b0dfb367e626b71405f85dea0631310b"
+  integrity sha512-D7pst/4v9H1DD66fLxlZOwRR09R03MV0ROdKxBHmh3FmnApCA/RiaolFA/8w+B3CnevYMlV3SJ5fOAgedbswbA==
   dependencies:
     "@hapi/joi" "^15.0.1"
     chalk "^2.4.1"
